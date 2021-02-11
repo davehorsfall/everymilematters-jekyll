@@ -195,16 +195,15 @@ jQuery(function ($) {
     })
 
     $(document).on('click', '.smooth-anchor', function (e) {
-        e.preventDefault();
-
         let href   = $(this).attr('href');
         let target = $.attr(this, 'href');
+        let anchor = target.substring(target.indexOf("#")+1);
 
-        if($(target).length > 0) {
-        
+        if($('#' + anchor).length > 0) {
+            e.preventDefault();
             if (href.length > 1 && href.indexOf('#') != -1) {
                 $('html, body').animate({
-                    scrollTop: $(target).offset().top
+                    scrollTop: $('#' + anchor).offset().top
                 }, 500);
             }
         }
