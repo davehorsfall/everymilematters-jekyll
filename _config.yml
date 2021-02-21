@@ -22,7 +22,7 @@ title: Every Mile Matters
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We intend to run 6721 miles across 2021 – a mile for every suicide and every tragic story behind it
-baseurl: "/everymilematters-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
