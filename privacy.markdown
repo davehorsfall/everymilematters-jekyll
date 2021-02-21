@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-category: privacy
+category: Legal
 ---
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website, https://everymilematters.club.
 
