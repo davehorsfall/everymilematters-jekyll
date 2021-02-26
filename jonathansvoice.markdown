@@ -9,6 +9,6 @@ Everyone running as part of this project knew Jon personally and, while each of 
 
 Jonathan's Voice performs valuable work in supporting organisations and research in relation to mental health, with a particular emphasis on mental health in [professional environments](https://jonathansvoice.org.uk/present-initiatives).
 
-This running project is intended to raise both money for, and awareness of, the work Jonathan's Voice undertakes and we encourage everyone to explore the [charity's website](https://jonathansvoice.org.uk/) and what the organisation as to offer.
+This running project is intended to raise both money for, and awareness of, the work Jonathan's Voice undertakes and we encourage everyone to explore the [charity's website](https://jonathansvoice.org.uk/) and what the organisation has to offer.
 
 Our hope is that, by increasing awareness of mental health issues, we can play a small part in stripping away the social stigma surrounding them and send out a clear message of support for organisations like Jonathan’s Voice.
